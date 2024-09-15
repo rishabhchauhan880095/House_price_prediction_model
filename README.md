@@ -1,1 +1,1 @@
-This is an end to end project.
+This is an end to end ML project.
